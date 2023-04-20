@@ -98,5 +98,16 @@
 //         alert("Não encontrei lanche vegetariano!")
 // }
 
+// ****************************************************************
+
+// var idade = 10;
+// var pessoa = (idade > 18 ? "Adulto" : "menor de idade")
+// console.log(pessoa)
+
+// var idade = 23;
+// var pessoa = (idade < 12 ? "Criança" :  idade < 18 ? "Adolescente" : "Adulto")
+// console.log(pessoa)
+
+// ****************************************************************
 
 

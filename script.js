@@ -200,13 +200,92 @@
 //     ação do default;  
 // }
 
+// ****************************************************************
+// IF Ternário
+
+// var salario = 1000;
+// var bonus = salario * (salario > 1000 ? 0.10 : 0.15);
+
+// condição? valor se for verdareiro : valor se for falso
+
+// ****************************************************************
+
+// var minhaString = "Uma string";
+// var outraVariável = minhaString;
+// var ambosOsValores = outraVariável + ' uma string';
+// var umaFunção = func();
+// var umArray = new Array();
+
+// Atribui o valor do array à variável
+// var meuArray = new Array();
+
+// // Atribui um valor qualquer em uma chave do array
+// meuArray[0] = 'Qualquer valor';
+
+// // Exibe o valor da chave 0 do array como um alerta
+// alert( meuArray[0] );
+
+// ****************************************************************
+// Operadores aritméticos
+
+// var resultado = 1 + 1; // 2
+// var a = 2;
+// var b = 4;
+// var c = a * b; // 8
+
+// contas com operadores aritméticos + - * / %
+
+// ****************************************************************
+// Concatenação
+
+// var c = 'a' + 2; // Agora o valor será a2
+
+// var a = 'Meu ';
+// var b = 'nome ';
+// var c = a + b + 'é Luiz.';
+
+// // Resultado de c: Meu nome é Luiz
+// alert( c );
+
+// uso do operador de adição entre string e valor numérico
+
+// ****************************************************************
+// Operador unário
+
+// ++ *dois sinais de adição) Incrementa 1 ao operando
+// - - (dois sinais de subtração) Diminui 1 do operando
+// – (um sinal de subtração) Representa um valor negativo
+
+// Atribui o valor 333
+// var a = 333;
+// a--;
+
+// // Resultado é 332
+// alert( a );
+
+// var a = 1;
+// var b = ++a; // Valor de a e de b é 2
+// var c = a++; // Valor de c é 2, mas de a agora é 3
 
 
+// ****************************************************************
+// OPERADOR DE ATRIBUIÇÃO + OPERADOR ARITMÉTICO
 
+// var a = 2;
 
+// a += 1; // 3
+// a *= 2; // 6
+// a /= 1; // 6
+// a -= 1; // 5
 
+// seria o mesmo que 
 
+// var a = 2;
 
+// a = a + 1; // 3
+// a = a * 2; // 6
+// a = a / 1; // 6
+// a = a - 1; // 5
 
 
 
