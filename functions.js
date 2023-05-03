@@ -132,3 +132,35 @@
 // console.log(increment2(5))
 // console.log(increment3(24))
 // console.log(increment4(99))
+
+// ****************************************************************
+
+// Funções anônimas
+// função sem nome
+// geralmente não está acessível após a sua criação
+// Como precisamos chamar a função anônima em algum momento, atribuímos essa função a uma variável, nesse caso à variável show.
+
+// setTimeout(function () {
+//     console.log("Executar depois de 1 segundo")
+// }, 1000);
+// passamos como argumento uma função anônima para a função setTimeout. A função anônima nesse caso passa a ser um parâmetro da função setTimeout. E ela executa a função anônima 1 segundo depois. 
+// pode passar uma função para outra como argumento. 
+
+// (funtion() {
+//     console.log("Executar imediatamente a função invocada");
+// })();
+// os últimos parenteses à direita permitem chamar a função. 
+// as vezes faz sentido passar argumentos para ela 
+
+// exemplo: 
+// let pessoa = {
+//     nome: "Lívia",
+//     sobrenome: "Seferin"
+// };
+
+// (function () {
+//     console.log(`${pessoa.nome} ${pessoa.sobrenome}`);
+// })(pessoa);
+
+// por que usar funções anônimas?
+//  permitir passá-la como se fosse um objeto qualquer, que você pode atribuir a uma variável
