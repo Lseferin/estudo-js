@@ -7,6 +7,7 @@
 - [x] https://blog.matheuscastiglioni.com.br/definindo-funcoes-em-javascript/
 - [x] https://ricardo-reis.medium.com/fun%C3%A7%C3%B5es-an%C3%B4nimas-javascript-92361075fd89
 
+
 | Artigo           | Tempo estimado | Tempo usado   |  Status  | 
 |----------------|---------------|---------------|----------------|
 | Estruturas Condicionais | 2 dias  | 4 dias |   Finalizado :heavy_check_mark:
@@ -17,3 +18,9 @@
 |Map() | 1 dia | 1 dia | Finalizado :heavy_check_mark:
 |Funções | 1 dia | 1 dia | Finalizado :heavy_check_mark:
 | Funções anônimas | 1 dia | 1 dia | Finalizado :heavy_check_mark:
+
+- [x] https://www.udemy.com/course/fundamentos-de-javascript-funcional/learn/lecture/21308908?start=30#content
+
+|Curso | Status |
+|------|--------|
+|Fundamentos js funcional | Finalizado :heavy_check_mark:|
