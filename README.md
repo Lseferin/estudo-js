@@ -20,7 +20,11 @@
 | Funções anônimas | 1 dia | 1 dia | Finalizado :heavy_check_mark:
 
 - [x] https://www.udemy.com/course/fundamentos-de-javascript-funcional/learn/lecture/21308908?start=30#content
+- [ ] https://www.udemy.com/course/javascript-funcional/learn/lecture/20276608#overview
+- [ ] https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/learn/lecture/24665868?start=0#overview
 
 |Curso | Status |
 |------|--------|
 |Fundamentos js funcional | Finalizado :heavy_check_mark:|
+|JS funcional e reativo | Em andamento |
+|JS e Typescript | Em andamento|
